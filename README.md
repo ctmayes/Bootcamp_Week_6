@@ -1,7 +1,7 @@
 # Bootcamp_Week_6
 
 
-# Financial Planning with APIs and Simulations
+# Housing Rental Analysis for San Francisco
 
 This program is designed to use data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities. We do use using a variety of methods, but primarily via a study of real estate and rental data to seek the best prospects for rental properties.
 
