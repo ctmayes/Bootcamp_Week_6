@@ -5,7 +5,7 @@
 
 This program is designed to use data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities. We do use using a variety of methods, but primarily via a study of real estate and rental data to seek the best prospects for rental properties.
 
-For additional reference, our data derives.
+For additional reference, our data derives primarily from *sfo_neighborhoods_census_data*, which is a collection of housing census data from 2010 through 2016. This data includes housing and rental prices sorted by neighborhood within the San Francisco housing market.
 
 ---
 
